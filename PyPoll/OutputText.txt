@@ -1,0 +1,8 @@
+Total votes: 3521001
+
+List Of Candidates: Khan, Correy, Li, O'Tooley, 
+Candidate Khan had 2218231 votes and 63.0% of the vote.
+Candidate Correy had 704200 votes and 20.0% of the vote.
+Candidate Li had 492940 votes and 14.0% of the vote.
+Candidate O'Tooley had 105630 votes and 3.0% of the vote.
+Overall Winner: Khan

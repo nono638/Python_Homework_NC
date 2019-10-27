@@ -1,0 +1,6 @@
+_________PyBank____________
+Total Months: 86
+Net Profit/Loss: $38382578.0
+Average Loss: $446309.05
+Biggest Increase: Feb-2012: $1170593.0
+Biggest Decrease: Sep-2013: -$1196225.0
